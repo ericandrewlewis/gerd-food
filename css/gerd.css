@@ -1,0 +1,18 @@
+.food-search-input {
+  width: 100%;
+  padding: 7px;
+  font-size: 35px;
+}
+
+.list-of-foods {
+    padding-left: 0;
+    font-size: 35px;
+}
+
+.list-of-foods li {
+    list-style: none;
+}
+
+.food-virtue-bad {
+  color: red;
+}
